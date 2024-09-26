@@ -1,3 +1,2 @@
 # PA 3: CSV-Select
-
-Read the writeup here: https://cse29sp24.github.io/docs/pas/pa3.html
+This project involves developing a command-line tool called  select that reads and parses CSV (comma-separated values) files. The program allows users to specify columns to extract and output in a new format, with options to limit the number of rows processed. It handles file input/output, parses command-line arguments using  getopt(), and performs advanced string manipulation for efficient CSV data processing. This tool simplifies data extraction from CSV files, making it easier to work with specific columns of interest.
